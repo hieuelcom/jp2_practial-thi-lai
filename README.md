@@ -1,3 +1,5 @@
+JP2 - Java Programing-II - Exam Paper
+Duration: 60 Minutes | Marks: 25
 The Airline Reservation System (ARS) is a software application to assist an airline with transactions
 related to making ticket reservations, which includes blocking, reserving, canceling and rescheduling
 tickets. You as a developer, you need to perform following tasks:
